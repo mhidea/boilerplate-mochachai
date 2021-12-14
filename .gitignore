@@ -2,3 +2,4 @@ node_modules
 .vscode/dryrun.log
 .vscode/configurationCache.log
 .vscode/settings.json
+package-lock.json
